@@ -1,5 +1,7 @@
 # README #
 
+# This reposiroty is minimally maintained. Please go to https://github.com/wilfi/terraform-get-started instead. #
+
 This repository contains an example set of [Terraform](https://terraform.io) manifests for building a basic Drupal at AWS.
 
 ### What does it do? ###
